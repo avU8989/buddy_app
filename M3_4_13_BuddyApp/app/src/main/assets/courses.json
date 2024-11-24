@@ -1,0 +1,172 @@
+[
+  {
+    "courseId": "course1",
+    "courseName": "Introduction to Calculus",
+    "ect": 5,
+    "semester": "Fall 2023",
+    "program": {
+      "studyField": "Mathematics",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Basic Mathematics",
+      "tips": "Practice regularly"
+    }
+  },
+  {
+    "courseId": "course2",
+    "courseName": "Algorithmen und Datenstrukturen",
+    "ect": 6,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Computer Science",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Advanced",
+      "preparation": 3,
+      "requiredKnowledge": "Programming Basics",
+      "tips": "Focus on algorithms"
+    }
+  },
+  {
+    "courseId": "course3",
+    "courseName": "Technische GrundLagen der Informatik",
+    "ect": 7,
+    "semester": "WS202",
+    "program": {
+      "studyField": "Computer Science",
+      "ect": 60,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Basic Programming Concepts",
+      "tips": "Review fundamental concepts"
+    }
+  },
+  {
+    "courseId": "course4",
+    "courseName": "Programmieren 1",
+    "ect": 7,
+    "semester": "WS202",
+    "program": {
+      "studyField": "Computer Science",
+      "ect": 60,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Beginner",
+      "preparation": 1,
+      "requiredKnowledge": "None",
+      "tips": "Start with simple programs"
+    }
+  },
+  {
+    "courseId": "course5",
+    "courseName": "Mathematische Grundlagen der Informatik 1",
+    "ect": 7,
+    "semester": "WS202",
+    "program": {
+      "studyField": "Computer Science",
+      "ect": 60,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Basic Mathematics",
+      "tips": "Practice proofs"
+    }
+  },
+  {
+    "courseId": "course6",
+    "courseName": "Kognition und Emotion",
+    "ect": 5,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Psychology",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Introductory Psychology",
+      "tips": "Engage in discussions"
+    }
+  },
+  {
+    "courseId": "course7",
+    "courseName": "Differentielle Psychologie",
+    "ect": 4,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Psychology",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Advanced",
+      "preparation": 3,
+      "requiredKnowledge": "Introductory Psychology",
+      "tips": "Read research articles"
+    }
+  },
+  {
+    "courseId": "course8",
+    "courseName": "Arbeits und Organisationspsychologie",
+    "ect": 6,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Psychology",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Introductory Psychology",
+      "tips": "Apply theoretical concepts"
+    }
+  },
+  {
+    "courseId": "course9",
+    "courseName": "Psychologische Gesprächsführung",
+    "ect": 3,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Psychology",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Beginner",
+      "preparation": 1,
+      "requiredKnowledge": "None",
+      "tips": "Practice active listening"
+    }
+  },
+  {
+    "courseId": "course10",
+    "courseName": "Entwicklungspsychologie",
+    "ect": 6,
+    "semester": "SS2022",
+    "program": {
+      "studyField": "Psychology",
+      "ect": 30,
+      "academicTitle": "BSc"
+    },
+    "courseDetails": {
+      "courseDifficulty": "Intermediate",
+      "preparation": 2,
+      "requiredKnowledge": "Introductory Psychology",
+      "tips": "Study different theories"
+    }
+  }
+]

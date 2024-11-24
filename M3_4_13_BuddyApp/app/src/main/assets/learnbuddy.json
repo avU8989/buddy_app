@@ -1,0 +1,167 @@
+[
+  {
+    "userId": "01",
+    "username": "Marie",
+    "buddyPoints": 100,
+    "buddyRank": "Rookie",
+    "description": "I'm a mathematics enthusiast who loves solving complex problems. Looking for a Study Buddy who enjoys high volume learning.",
+    "studies": [
+      {
+        "studyField": "Mathematics",
+        "ect": 120,
+        "academicTitle": "MSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/jG0jrjW.gif"
+  },
+  {
+    "userId": "02",
+    "username": "avU",
+    "buddyPoints": 800,
+    "buddyRank": "Rookie",
+    "description": "I'm a Computer Science student with a passion for coding. Looking for a Study Buddy who enjoys quizzing each other to reinforce concepts.",
+    "studies": [
+      {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/vavfJqu.gif"
+  },
+  {
+    "userId": "03",
+    "username": "EZST",
+    "buddyPoints": 900,
+    "buddyRank": "Rookie",
+    "description": "I'm a multitalented student majoring in Computer Science and Biology. Looking for a Study Buddy for partner & group learning.",
+    "studies": [
+      {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      {
+        "studyField": "Biology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/phxoCXz.gif"
+  },
+  {
+    "userId": "04",
+    "username": "flrn",
+    "buddyPoints": 1001,
+    "buddyRank": "Mentor",
+    "description": "I'm a Psychology graduate who loves understanding the human mind. Looking for a Study Buddy who enjoys min-max learning.",
+    "studies": [
+      {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/N0gsmWi.gif"
+  },
+  {
+    "userId": "05",
+    "username": "What_the_Quak",
+    "buddyPoints": 2000,
+    "buddyRank": "Mentor",
+    "description": "I'm a Psychology major with a passion for helping others. Looking for a Study Buddy who enjoys quizzing each other.",
+    "studies": [
+      {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/R3ZljRg.gif"
+  },
+  {
+    "userId": "06",
+    "username": "TheStudyNerd",
+    "buddyPoints": 1500,
+    "buddyRank": "Mentor",
+    "description": "I'm passionate about exploring new fields and helping others learn. Looking for a Study Buddy for partner & group learning.",
+    "studies": [
+      {
+        "studyField": "Physics",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/BLz5n08.gif"
+  },
+  {
+    "userId": "07",
+    "username": "EduBuddy",
+    "buddyPoints": 700,
+    "buddyRank": "Rookie",
+    "description": "Eager to learn and share my knowledge with fellow students. Looking for a Study Buddy who enjoys high volume learning.",
+    "studies": [
+      {
+        "studyField": "Economics",
+        "ect": 120,
+        "academicTitle": "MSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/D8hOYEu.gif"
+  },
+  {
+    "userId": "08",
+    "username": "Learnaholic",
+    "buddyPoints": 1200,
+    "buddyRank": "Mentor",
+    "description": "I believe in the power of education and love to help others succeed in their studies. Looking for a Study Buddy who enjoys quizzing each other.",
+    "studies": [
+      {
+        "studyField": "Sociology",
+        "ect": 160,
+        "academicTitle": "MSc"
+      },
+      {
+        "studyField": "Political Science",
+        "ect": 120,
+        "academicTitle": "MSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/NZ7URdO.gif"
+  },
+  {
+    "userId": "09",
+    "username": "CodingWizard",
+    "buddyPoints": 1100,
+    "buddyRank": "Mentor",
+    "description": "I love coding and helping others grasp complex programming concepts. Looking for a Study Buddy for partner & group learning.",
+    "studies": [
+      {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/Q9i76gT.gif"
+  },
+  {
+    "userId": "10",
+    "username": "Brainiac",
+    "buddyPoints": 900,
+    "buddyRank": "Rookie",
+    "description": "Enthusiast learner with a love for a variety of academic disciplines. Looking for a Study Buddy who enjoys high volume learning.",
+    "studies": [
+      {
+        "studyField": "Philosophy",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      {
+        "studyField": "Literature",
+        "ect": 180,
+        "academicTitle": "BSc"
+      }
+    ],
+    "imageUrl": "https://i.imgur.com/TUPgTSB.jpeg"
+  }
+]

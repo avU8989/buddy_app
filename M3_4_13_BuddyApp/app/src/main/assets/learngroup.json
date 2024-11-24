@@ -1,0 +1,142 @@
+[
+  {
+    "groupId": "01",
+    "course": {
+      "courseId": "inf101",
+      "courseName": "Human-Computer-Interaction",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "HCI Study Group",
+    "description": "We are a new study group focusing on the Human-Computer-Interaction course and are seeking new learning buddies.",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=TKuobqUAozsC&hl=de&pg=PR2&img=1&zoom=3&bul=1&sig=ACfU3U1P-qP6NSLLGQ2178W9lLq3jG0kPQ&w=1280",
+    "memberCount": 5
+  },
+  {
+    "groupId": "02",
+    "course": {
+      "courseId": "inf102",
+      "courseName": "System Modellierung",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Abstraction Masters",
+    "description": "We are a new study group in the Modelling course, we love abstraction to tackle complexity and are seeking new learning buddies.",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=2nJTDMEpwSQC&hl=de&pg=PR1&img=1&zoom=3&bul=1&sig=ACfU3U1SAzbeF1v-ekK039MY7L-IFn58hQ&w=1280",
+    "memberCount" : 1
+  },
+  {
+    "groupId": "03",
+    "course": {
+      "courseId": "inf103",
+      "courseName": "Programmieren 1",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "C Connoisseurs",
+    "description": "We are a new study group in the Programming 1 course, we love C++ and are seeking new learning buddies.",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/publisher/content?id=5PRYDwAAQBAJ&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U1GabYbh5SBUWfzLdu7D8OHJez-1Q&w=1280",
+    "memberCount": 2
+  },
+  {
+    "groupId": "04",
+    "course": {
+      "courseId": "inf104",
+      "courseName": "C Data Structures",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Data Structure Savvy",
+    "description": "We are a dynamic study group exploring the complexities of data structures and we're looking for more buddies to join us!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=HHfP4M_SW6AC&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U22wURHdp5UeSXiUTiJtHJewUaJdQ&w=1280",
+    "memberCount": 3
+  },
+  {
+    "groupId": "05",
+    "course": {
+      "courseId": "inf105",
+      "courseName": "Machine Learning",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Coffee Enthusiasts",
+    "description": "We're a newly formed study group who love exploring machine learning concepts. Join us if you're as passionate as we are!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/publisher/content?id=HrS8BAAAQBAJ&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U2muyrubJt4-hptqbmCTrzqTCHDQQ&w=1280",
+    "memberCount": 4
+  },
+  {
+    "groupId": "06",
+    "course": {
+      "courseId": "inf106",
+      "courseName": "Computer Graphics",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Pixel Pushers",
+    "description": "We are a study group dedicated to understanding computer graphics. New members are always welcome!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=kdv4pLoQ5rEC&hl=de&pg=PR2&img=1&zoom=3&bul=1&sig=ACfU3U1JFUiaLdcR-yR2bDQFiDExl7ZiTQ&w=1280",
+    "memberCount": 5
+  },
+  {
+    "groupId": "07",
+    "course": {
+      "courseId": "inf107",
+      "courseName": "Cyber Security",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Cyber Squad",
+    "description": "We're a group of cyber security enthusiasts, constantly learning new ways to protect digital environments. Come join us!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=hu4bJo5v3dsC&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U3iuxXY_aBz9SRo3az-6V37GCcKOQ&w=1280",
+    "memberCount": 4
+  },
+  {
+    "groupId": "08",
+    "course": {
+      "courseId": "inf108",
+      "courseName": "Artificial Intelligence",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "AI What?",
+    "description": "We are an AI study group, always curious and open to new ideas. Looking for more buddies to join our exploration.",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/publisher/content?id=oau3EAAAQBAJ&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U2NIFlvEX6nE5Uu7F2NkwSyD2PjEA&w=1280",
+    "memberCount": 5
+  },
+  {
+    "groupId": "09",
+    "course": {
+      "courseId": "inf109",
+      "courseName": "Database Systems",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "DB Diggers",
+    "description": "We're a group passionate about understanding and working with database systems. If that's your interest, join us!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=8PNCKe2SpRwC&hl=de&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U30B0l8hx6qFcLcAkGjpDfHZyBaYg&w=1280",
+    "memberCount": 3
+  },
+  {
+    "groupId": "10",
+    "course": {
+      "courseId": "inf110",
+      "courseName": "Web Development",
+      "ect": 6,
+      "semester": "SS2023"
+    },
+    "groupTitle": "Web Warriors",
+    "description": "We're a group of enthusiastic students eager to understand and explore web development techniques. Come and join us!",
+    "university": "University of Vienna",
+    "imageUrl": "https://books.google.at/books/content?id=k0zFcsFA8g8C&hl=de&pg=PR2&img=1&zoom=3&bul=1&sig=ACfU3U33s_lned0W6eKcqac5ZR-fHlKXVw&w=1280",
+    "memberCount": 6
+  }
+]

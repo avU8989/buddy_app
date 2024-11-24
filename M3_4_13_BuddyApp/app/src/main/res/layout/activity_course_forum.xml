@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/drawer_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/test"
+	tools:context=".activities.CoursesActivity"
+	tools:openDrawer="start">
+
+	<!-- Main Content -->
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/main_layout"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<androidx.appcompat.widget.Toolbar
+			android:id="@+id/toolBar"
+			android:background="@drawable/test"
+			android:layout_width="match_parent"
+			android:layout_height="?attr/actionBarSize"
+			app:layout_constraintTop_toTopOf="parent"
+			android:focusableInTouchMode="false">
+
+			<ImageView
+				android:id="@+id/infoIcon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:src="@drawable/baseline_info_24"
+				android:layout_gravity="end"
+				android:paddingEnd="16dp"
+				android:paddingRight="16dp"
+				android:contentDescription="Info Icon" />
+
+		</androidx.appcompat.widget.Toolbar>
+
+
+
+		<androidx.cardview.widget.CardView
+			android:id="@+id/info_card"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin="8dp"
+			app:cardCornerRadius="8dp"
+			app:cardElevation="4dp"
+			app:layout_constraintTop_toBottomOf="@id/toolBar"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			android:focusableInTouchMode="true"
+			android:visibility="gone">
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				android:padding="16dp">
+
+				<TextView
+					android:id="@+id/difficultyTextView"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="Difficulty: "
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/preparationTextView"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="Preparation: "
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/knowledgeTextView"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="Required Knowledge: "
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/tipsTextView"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="Tips: "
+					android:textStyle="bold" />
+			</LinearLayout>
+		</androidx.cardview.widget.CardView>
+
+		<androidx.recyclerview.widget.RecyclerView
+			android:id="@+id/recycler_view_posts"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:scrollbars="vertical"
+			tools:listitem="layout/post_item"
+			app:layout_constraintTop_toBottomOf="@id/info_card"
+			app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
+			app:layout_goneMarginTop="0dp"
+			android:clipToPadding="false"
+			android:paddingBottom="0dp"
+			android:layout_marginTop="8dp"
+			android:layout_marginBottom="8dp"
+			app:layout_constraintVertical_chainStyle="packed" />
+
+
+
+		<com.google.android.material.bottomnavigation.BottomNavigationView
+			android:id="@+id/bottom_navigation"
+			android:layout_width="match_parent"
+			android:layout_height="80dp"
+			android:background="@drawable/taskbar"
+			app:labelVisibilityMode="labeled"
+			app:itemIconSize="40dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintLeft_toLeftOf="parent"
+			app:layout_constraintRight_toRightOf="parent"
+			app:menu="@menu/bottom_nav_menu" />
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

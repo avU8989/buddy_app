@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="?attr/selectableItemBackground"
+	android:foreground="?attr/selectableItemBackground"
+	app:cardUseCompatPadding="true"
+	app:cardPreventCornerOverlap="false"
+	app:cardCornerRadius="8dp"
+	app:cardBackgroundColor="@android:color/white">
+
+	<ImageView
+		android:id="@+id/learn_buddy_image_url_image_view"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:scaleType="centerCrop"/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:orientation="vertical"
+		android:background="@drawable/transparent">
+
+		<TextView
+			android:id="@+id/learn_buddy_name_text_view"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:textSize="26sp"
+			android:textStyle="bold" />
+
+		<TextView
+			android:id="@+id/learn_buddy_study_text_view"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:textSize="20sp"
+			android:textStyle="bold" />
+
+		<TextView
+			android:id="@+id/learnbuddy_description_text_view"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:textSize="20sp"
+			android:textStyle="bold" />
+		<TextView
+			android:id="@+id/learn_buddy_rank_text_view"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:textSize="20sp"
+			android:textStyle="bold" />
+		<TextView
+			android:id="@+id/learn_buddy_points_text_view"
+			android:layout_width="wrap_content"
+			android:layout_toEndOf="@id/learn_buddy_rank_text_view"
+			android:layout_height="wrap_content"
+			android:background="@drawable/test"
+			android:textColor="@android:color/white"
+			android:textSize="20sp"
+			android:textStyle="bold" />
+	</LinearLayout>
+
+</androidx.cardview.widget.CardView>

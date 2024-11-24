@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- discover_learnbuddy strings -->
+
+    <string name="app_name"> Buddy-App</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="_21_string">21</string>
+    <string name="city_string">10 miles away</string>
+    <string name="name_string">Rohini</string>
+    <string name="discover_string">Discover LearnGroup</string>
+    <string name="message_string">Message</string>
+    <string name="message_ek1_string">Message</string>
+    <string name="digital_humanities_bachlor____1030__vienna_ash_musterperson__she_them__buddyrank__newbee_looking_for__high_volume_learning_gegenseitig_abfragen_partner___gruppen_lernen_string">Digital Humanities Bachlor; 1030; ViennaAsh Musterperson(she/them)Buddyrank: NewbeeLooking For: High Volume LearningGegenseitig Abfragen Partner &amp; Gruppen lernen</string>
+    <string name="what_do_you_want_to_do__string">Stay up to date\n</string>
+    <string name="looking_for_a_learngroup">Lookig for a learn group?</string>
+    <string name="welcome_message">Let\'s start learning\n</string>
+    <string name="welcome">Hi, avU</string>
+    <string name="title_dashboard" />
+    <string name="title_notifications" />
+    <string name="title_home" />
+    <string name="discover_learnBuddy_string">Discover StudyBuddies</string>
+    <string name="looking_for_a_learnbuddy">Looking for a StudyBuddy?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

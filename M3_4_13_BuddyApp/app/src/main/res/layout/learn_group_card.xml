@@ -1,0 +1,110 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/selectableItemBackground"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardUseCompatPadding="true"
+    app:cardPreventCornerOverlap="false"
+    app:cardCornerRadius="8dp"
+    app:cardBackgroundColor="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/learn_group_image_url_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/transparent">
+
+        <ImageView
+            android:id="@+id/arrow_icon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_above="@id/first_linear_layout"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/baseline_keyboard_double_arrow_up_24" />
+
+        <LinearLayout
+            android:id="@+id/first_linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_alignParentBottom="true"
+
+            android:orientation="vertical"
+            android:background="@drawable/transparent">
+
+            <TextView
+                android:id="@+id/learn_group_title_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/learngroup_members_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/learngroup_course_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/learngroup_university_name_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="40dp"
+                android:background="@android:color/transparent"
+                android:elevation="16dp">
+
+                <ImageButton
+                    android:id="@+id/like_button"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="start"
+                    android:background="@android:color/transparent"
+                    android:padding="8dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/like2" />
+
+                <ImageButton
+                    android:id="@+id/reject_button"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="end"
+                    android:background="@android:color/transparent"
+                    android:padding="8dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/reject" />
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

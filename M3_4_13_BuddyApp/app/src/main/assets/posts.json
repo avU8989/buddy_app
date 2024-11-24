@@ -1,0 +1,402 @@
+[
+  {
+    "user": {
+      "username": "User1",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course1",
+      "courseName": "Introduction to Calculus",
+      "ect": 3,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Mathematics",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Basic Mathematics",
+        "tips": "Practice regularly"
+      }
+    },
+    "postTitle": "How to approach limit problems in Calculus?",
+    "description": "I find limit problems quite challenging. Any tips?",
+    "upvote": 5,
+    "downvote": 0,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT1",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "In limit problems, it's often helpful to first simplify the expression. Also, knowing key limit properties and understanding what happens when a function approaches infinity can be very useful.",
+        "upvote": 3,
+        "downvote": 0,
+        "date": "2023-05-05"
+      }
+    ],
+    "date": "2023-05-02"
+  },
+  {
+    "user": {
+      "username": "User2",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course2",
+      "courseName": "Algorithmen und Datenstrukturen",
+      "ect": 6,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Advanced",
+        "preparation": 4,
+        "requiredKnowledge": "Programming Basics",
+        "tips": "Focus on algorithms"
+      }
+    },
+    "postTitle": "Can anyone explain Dijkstra's algorithm?",
+    "description": "I'm having trouble understanding Dijkstra's algorithm. Any good resources?",
+    "upvote": 6,
+    "downvote": 1,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT12",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Dijkstra's algorithm is a popular algorithm for finding the shortest path in a graph. It works by creating a set of all unvisited vertices, then repeatedly selecting the vertex with the smallest distance, updating distances of adjacent vertices, and repeating the process until all vertices have been visited.",
+        "upvote": 4,
+        "downvote": 0,
+        "date": "2023-05-07"
+      }
+    ],
+    "date": "2023-05-05"
+  },
+  {
+    "user": {
+      "username": "User4",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course3",
+      "courseName": "Technische GrundLagen der Informatik",
+      "ect": 5,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Basic Programming Concepts",
+        "tips": "Review fundamental concepts"
+      }
+    },
+    "postTitle": "How does the CPU process instructions?",
+    "description": "I'm a bit confused about how the CPU processes instructions. Can anyone clarify this?",
+    "upvote": 3,
+    "downvote": 1,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT4",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "The CPU processes instructions in a cycle often referred to as the fetch-decode-execute cycle. It fetches the instruction from memory, decodes it to determine what action to perform, then executes the instruction.",
+        "upvote": 4,
+        "downvote": 0,
+        "date": "2023-05-10"
+      }
+    ],
+    "date": "2023-05-08"
+  },
+  {
+    "user": {
+      "username": "User5",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course4",
+      "courseName": "Programmieren 1",
+      "ect": 4,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Beginner",
+        "preparation": 2,
+        "requiredKnowledge": "None",
+        "tips": "Start with simple programs"
+      }
+    },
+    "postTitle": "Is Java a good programming language for beginners?",
+    "description": "I'm new to programming, and I was wondering if starting with Java is a good idea.",
+    "upvote": 5,
+    "downvote": 0,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT5",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Yes, Java is a good programming language for beginners. It is object-oriented, which is a paradigm used by many other languages, so it provides a good foundation.",
+        "upvote": 4,
+        "downvote": 0,
+        "date": "2023-05-02"
+      }
+    ],
+    "date": "2023-05-01"
+  },
+  {
+    "user": {
+      "username": "User6",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course5",
+      "courseName": "Mathematische Grundlagen der Informatik 1",
+      "ect": 5,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Computer Science",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Basic Mathematics",
+        "tips": "Practice proofs"
+      }
+    },
+    "postTitle": "How to effectively practice proofs?",
+    "description": "I have trouble understanding how to get better at proving. Any tips?",
+    "upvote": 7,
+    "downvote": 2,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT6",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Start with simple proofs, understand the logic behind them, and then gradually move to more complex ones. Practicing regularly and consistently is key.",
+        "upvote": 6,
+        "downvote": 0,
+        "date": "2023-05-04"
+      }
+    ],
+    "date": "2023-05-03"
+  },
+  {
+    "user": {
+      "username": "User7",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course6",
+      "courseName": "Kognition und Emotion",
+      "ect": 4,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Introductory Psychology",
+        "tips": "Engage in discussions"
+      }
+    },
+    "postTitle": "Can emotions influence our cognitive processes?",
+    "description": "I'm wondering how emotions can affect our thinking, perception, and other cognitive processes.",
+    "upvote": 8,
+    "downvote": 0,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT7",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Absolutely, emotions can greatly influence our cognitive processes. They can affect our decision-making, attention, memory, and other cognitive functions.",
+        "upvote": 9,
+        "downvote": 0,
+        "date": "2023-05-06"
+      }
+    ],
+    "date": "2023-05-05"
+  },
+  {
+    "user": {
+      "username": "User8",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course7",
+      "courseName": "Differentielle Psychologie",
+      "ect": 3,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Advanced",
+        "preparation": 4,
+        "requiredKnowledge": "Introductory Psychology",
+        "tips": "Read research articles"
+      }
+    },
+    "postTitle": "What is the main focus of differential psychology?",
+    "description": "Can someone briefly explain the key aspects of differential psychology?",
+    "upvote": 6,
+    "downvote": 1,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT8",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Differential psychology focuses on the study of individual differences in behavior and mental processes. It looks at how and why individuals differ in their thinking, feeling, and behavior.",
+        "upvote": 7,
+        "downvote": 0,
+        "date": "2023-05-08"
+      }
+    ],
+    "date": "2023-05-07"
+  },
+  {
+    "user": {
+      "username": "User9",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course8",
+      "courseName": "Arbeits und Organisationspsychologie",
+      "ect": 5,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Introductory Psychology",
+        "tips": "Apply theoretical concepts"
+      }
+    },
+    "postTitle": "How does organizational psychology apply in a remote work setup?",
+    "description": "With the shift to remote work, how can principles of organizational psychology be applied to improve productivity and employee satisfaction?",
+    "upvote": 8,
+    "downvote": 0,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT9",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Organizational psychology can still play a huge role in remote work setups. Things like fostering good communication, setting clear expectations, recognizing employee contributions, and providing support for work-life balance can all contribute to productivity and satisfaction.",
+        "upvote": 10,
+        "downvote": 0,
+        "date": "2023-05-10"
+      }
+    ],
+    "date": "2023-05-09"
+  },
+  {
+    "user": {
+      "username": "User10",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course9",
+      "courseName": "Psychologische Gesprächsführung",
+      "ect": 3,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Beginner",
+        "preparation": 2,
+        "requiredKnowledge": "None",
+        "tips": "Practice active listening"
+      }
+    },
+    "postTitle": "What are some strategies for active listening in counseling?",
+    "description": "How can I improve my active listening skills in a counseling context?",
+    "upvote": 5,
+    "downvote": 0,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT10",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "Some strategies for active listening include maintaining eye contact, nodding to show understanding, paraphrasing or summarizing the speaker's words, and asking open-ended questions to encourage more discussion.",
+        "upvote": 7,
+        "downvote": 0,
+        "date": "2023-05-12"
+      }
+    ],
+    "date": "2023-05-11"
+  },
+  {
+    "user": {
+      "username": "User11",
+      "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+    },
+    "course": {
+      "courseId": "course10",
+      "courseName": "Entwicklungspsychologie",
+      "ect": 4,
+      "semester": "SS2023",
+      "program": {
+        "studyField": "Psychology",
+        "ect": 180,
+        "academicTitle": "BSc"
+      },
+      "courseDetails": {
+        "courseDifficulty": "Intermediate",
+        "preparation": 3,
+        "requiredKnowledge": "Introductory Psychology",
+        "tips": "Understand developmental theories"
+      }
+    },
+    "postTitle": "Difference between Piaget's and Vygotsky's theories?",
+    "description": "I'm having trouble distinguishing between Piaget's and Vygotsky's theories of cognitive development. Could someone explain the main differences?",
+    "upvote": 9,
+    "downvote": 1,
+    "forumMessages": [
+      {
+        "user": {
+          "username": "BOT11",
+          "avatarUrl": "https://cdn.pixabay.com/photo/2021/06/07/13/46/user-6318008_960_720.png"
+        },
+        "text": "While both Piaget and Vygotsky agree that children actively construct knowledge, they differ in how they believe this construction takes place. Piaget emphasizes independent exploration, while Vygotsky 4lights the role of social interaction and cultural tools.",
+        "upvote": 11,
+        "downvote": 0,
+        "date": "2023-05-14"
+      }
+    ],
+    "date": "2023-05-13"
+  }
+]
